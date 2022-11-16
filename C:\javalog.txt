@@ -1,0 +1,8 @@
+actual: C:\javalog.txt
+expect: Bienvenido a la aplicación para ordenar pizza.
+
+Sigue	las instrucciones por favor.
+
+
+aqui haciendo prueba: input_files/opcion_veg_false.txt
+¿Deseas pizza vegetariana (Y/N)?
